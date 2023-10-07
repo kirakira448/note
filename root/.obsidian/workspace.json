@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI·人工智能/matplotlib/预设.md",
+                "file": "git/基础用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI·人工智能/matplotlib/预设.md",
+                "file": "git/基础用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI·人工智能/matplotlib/预设.md",
+                "file": "git/基础用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI·人工智能/matplotlib/预设.md"
+                "file": "git/基础用法.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "4162b3b9d98a54eb",
   "lastOpenFiles": [
+    "AI·人工智能/matplotlib/预设.md",
+    "git/基础用法.md",
+    "git",
     "AI·人工智能/MachineLearning/KMeans.md",
     "AI·人工智能/data/imgs/KMeans算法.png",
     "AI·人工智能/data/imgs/KMeans算法.png.crdownload",
@@ -197,7 +200,6 @@
     "AI·人工智能/MachineLearning/逻辑回归.md",
     "AI·人工智能/MachineLearning/Gradient Descent 梯度下降.md",
     "AI·人工智能/MachineLearning/RandomForestRegressor 基本流程.md",
-    "AI·人工智能/MachineLearning/Cross-Validation 交叉验证.md",
     "AI·人工智能/matplotlib",
     "AI·人工智能/data/imgs/McNemar.png",
     "AI·人工智能/data/imgs/McNemar.png.crdownload",
@@ -205,7 +207,6 @@
     "AI·人工智能/Pandas",
     "AI·人工智能/sklearn",
     "AI·人工智能/data",
-    "AI·人工智能/data/imgs",
     "AI·人工智能/机器学习深度学习理论与实践路线.canvas",
     "云服务/AWS/云端存储/AWS Core Storage Services.canvas",
     "云服务/AWS/Core Services Architecture Diagram/AWS Core Services Architecture Diagram.canvas",

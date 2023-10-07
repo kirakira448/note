@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "a7d2ed6e5b7e3f59",
+    "type": "split",
+    "children": [
+      {
+        "id": "99c1ebdb86391058",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4378a366aa3c3793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/Vue3/Element-Plus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4162b3b9d98a54eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI·人工智能/matplotlib/预设.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c487d5be649cd07",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5d5200d53c26014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "146872cd40634b77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "442d219be77c0d6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7b8626f38538e5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2159ff032bbe3edf",
+    "type": "split",
+    "children": [
+      {
+        "id": "85708feae4ce066e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c83a02182972df0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI·人工智能/matplotlib/预设.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae5b9379e4e51309",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI·人工智能/matplotlib/预设.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8397e066eeadc47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ca99e9111c0fe25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI·人工智能/matplotlib/预设.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4162b3b9d98a54eb",
+  "lastOpenFiles": [
+    "AI·人工智能/MachineLearning/KMeans.md",
+    "AI·人工智能/data/imgs/KMeans算法.png",
+    "AI·人工智能/data/imgs/KMeans算法.png.crdownload",
+    "AI·人工智能/MachineLearning/分类算法的评价指标.md",
+    "AI·人工智能/MachineLearning/RR与OR.md",
+    "前端/Vue3/【案例】小兔鲜.md",
+    "前端/Vue3/事件.md",
+    "前端/Vue3/VueUse.md",
+    "前端/Vue3/Element-Plus.md",
+    "AI·人工智能/MachineLearning/Pipelines 管道.md",
+    "前端/Vue3/imgs/屏幕截图 2023-10-05 104333.png",
+    "前端/Vue3/imgs/屏幕截图 2023-10-05 104210.png",
+    "AI·人工智能/MachineLearning/监督学习（Supervised learning）.md",
+    "前端/Vue3/imgs",
+    "前端/Vue3/插件.md",
+    "前端/Vue3/Vite.md",
+    "前端/Vue3/Pinia.md",
+    "前端/Vue3/vue-router.md",
+    "前端/Vue3/Vant.md",
+    "前端/Vue3/TinyMCE.md",
+    "前端/Vue3/ECharts.md",
+    "AI·人工智能/MachineLearning/过拟合与欠拟合.md",
+    "AI·人工智能/sklearn/sklearn 方法解释.md",
+    "AI·人工智能/data/imgs/ROC_curve.png",
+    "AI·人工智能/data/imgs/precision_recall_curve.png",
+    "AI·人工智能/data/imgs/precision&recall_threshold_curve.png",
+    "AI·人工智能/data/imgs/二分类Precision-Recall曲线图.jpg",
+    "AI·人工智能/data/imgs/二分类Precision-Recall曲线图.jpg.crdownload",
+    "AI·人工智能/data/imgs/精准率与召回率.png",
+    "AI·人工智能/data/imgs/精准率与召回率.png.crdownload",
+    "AI·人工智能/MachineLearning/Regularization 正则化.md",
+    "AI·人工智能/MachineLearning/Softmax回归.md",
+    "AI·人工智能/MachineLearning/KNN（K-Nearest Neighbors）.md",
+    "AI·人工智能/MachineLearning/逻辑回归.md",
+    "AI·人工智能/MachineLearning/Gradient Descent 梯度下降.md",
+    "AI·人工智能/MachineLearning/RandomForestRegressor 基本流程.md",
+    "AI·人工智能/MachineLearning/Cross-Validation 交叉验证.md",
+    "AI·人工智能/matplotlib",
+    "AI·人工智能/data/imgs/McNemar.png",
+    "AI·人工智能/data/imgs/McNemar.png.crdownload",
+    "AI·人工智能/data/imgs/crosstab03.png",
+    "AI·人工智能/Pandas",
+    "AI·人工智能/sklearn",
+    "AI·人工智能/data",
+    "AI·人工智能/data/imgs",
+    "AI·人工智能/机器学习深度学习理论与实践路线.canvas",
+    "云服务/AWS/云端存储/AWS Core Storage Services.canvas",
+    "云服务/AWS/Core Services Architecture Diagram/AWS Core Services Architecture Diagram.canvas",
+    "AWS/Core Services Architecture Diagram/AWS Core Services Architecture Diagram.canvas",
+    "未命名 1.canvas"
+  ]
+}

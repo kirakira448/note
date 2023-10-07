@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"group","id":"c9db2c5682e0f293","x":-400,"y":-480,"width":1360,"height":1120,"label":"AWS云端"},
+		{"type":"group","id":"5978b490920d3b15","x":-120,"y":-400,"width":960,"height":400,"label":"VPC"},
+		{"type":"group","id":"7dbc7a148b66ea1f","x":140,"y":-350,"width":300,"height":290,"label":"公有子网"},
+		{"type":"group","id":"7b4dac34014e53ba","x":480,"y":-345,"width":300,"height":290,"label":"私有子网"},
+		{"type":"text","text":"# 使用者","id":"91c331a311f74e3c","x":-620,"y":420,"width":140,"height":60},
+		{"type":"file","file":"云服务/AWS/Core Services Architecture Diagram/IAM.md","id":"ab94bc52cb70d1e1","x":-280,"y":360,"width":220,"height":180},
+		{"type":"file","file":"云服务/AWS/Core Services Architecture Diagram/S3.md","id":"9d5ed847c84cfa3b","x":20,"y":360,"width":220,"height":180},
+		{"type":"file","file":"云服务/AWS/Core Services Architecture Diagram/EC2.md","id":"a986bbadb5c4ec94","x":175,"y":-300,"width":210,"height":190},
+		{"type":"file","file":"云服务/AWS/Core Services Architecture Diagram/VPC.md","id":"badec08be5d87031","x":-120,"y":-380,"width":210,"height":160},
+		{"type":"text","text":"# 浏览器","id":"3595d5de667a0eb1","x":-1000,"y":-330,"width":140,"height":60},
+		{"type":"text","text":"# 互联网","id":"aa35cd97a2d84edb","x":-660,"y":-350,"width":145,"height":50},
+		{"type":"file","file":"云服务/AWS/Core Services Architecture Diagram/Lambda.md","id":"579b510234200ca2","x":320,"y":360,"width":220,"height":180},
+		{"type":"file","file":"云服务/AWS/Core Services Architecture Diagram/DynamoDB.md","id":"d8df6aa93e8aaadc","x":620,"y":360,"width":220,"height":180},
+		{"type":"file","file":"云服务/AWS/Core Services Architecture Diagram/RDS.md","id":"c5145e8d50f99c2a","x":520,"y":-300,"width":210,"height":190},
+		{"id":"f15a6f0f916c8300","x":220,"y":60,"width":230,"height":200,"type":"file","file":"云服务/AWS/Core Services Architecture Diagram/CloudWatch.md"},
+		{"id":"203f4282152e66c2","x":560,"y":60,"width":210,"height":200,"type":"file","file":"云服务/AWS/Core Services Architecture Diagram/SNS.md"},
+		{"id":"af24dd6dcf0428cb","x":1180,"y":130,"width":250,"height":60,"type":"text","text":"# 电子邮件/短信"}
+	],
+	"edges":[
+		{"id":"be97cb76883bd733","fromNode":"ab94bc52cb70d1e1","fromSide":"right","toNode":"9d5ed847c84cfa3b","toSide":"left"},
+		{"id":"0bf516edc2e2b5ad","fromNode":"9d5ed847c84cfa3b","fromSide":"right","toNode":"579b510234200ca2","toSide":"left"},
+		{"id":"cf506528e2197cf5","fromNode":"579b510234200ca2","fromSide":"right","toNode":"d8df6aa93e8aaadc","toSide":"left"},
+		{"id":"4ab29633e873ea38","fromNode":"91c331a311f74e3c","fromSide":"right","toNode":"ab94bc52cb70d1e1","toSide":"left"},
+		{"id":"8c7698b1647d8e84","fromNode":"a986bbadb5c4ec94","fromSide":"right","toNode":"c5145e8d50f99c2a","toSide":"left"},
+		{"id":"823b79cb982bd962","fromNode":"3595d5de667a0eb1","fromSide":"right","toNode":"badec08be5d87031","toSide":"left"},
+		{"id":"38c0e1f5550d2c2f","fromNode":"badec08be5d87031","fromSide":"right","toNode":"a986bbadb5c4ec94","toSide":"left"},
+		{"id":"c707dd6ff218a70c","fromNode":"a986bbadb5c4ec94","fromSide":"bottom","toNode":"f15a6f0f916c8300","toSide":"top"},
+		{"id":"ca67a156d46c0bb9","fromNode":"f15a6f0f916c8300","fromSide":"right","toNode":"203f4282152e66c2","toSide":"left"},
+		{"id":"2878dda97bf4c8dc","fromNode":"203f4282152e66c2","fromSide":"right","toNode":"af24dd6dcf0428cb","toSide":"left"}
+	]
+}

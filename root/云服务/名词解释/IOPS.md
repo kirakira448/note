@@ -1,0 +1,7 @@
+*每秒的读写次数*
+
+**IOPS**（[Input/Output](https://zh.wikipedia.org/wiki/I/O "I/O") Operations Per Second）是一个用于电脑[存储设备](https://zh.wikipedia.org/wiki/%E5%84%B2%E5%AD%98%E8%A3%9D%E7%BD%AE "存储设备")（如[硬盘](https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%A2%9F "硬盘")（HDD）、[固态硬盘](https://zh.wikipedia.org/wiki/%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98 "固态硬盘")（SSD）或[存储区域网络](https://zh.wikipedia.org/wiki/%E5%AD%98%E5%82%A8%E5%8C%BA%E5%9F%9F%E7%BD%91%E7%BB%9C "存储区域网络")（SAN））[性能测试](https://zh.wikipedia.org/w/index.php?title=%E6%95%88%E8%83%BD%E6%B8%AC%E8%A9%A6&action=edit&redlink=1)的量测方式，可以视为是***每秒的读写次数***。和其他性能测试一様，存储设备制造商提出的IOPS不保证就是实际应用下的性能。
+
+IOPS可以用应用程序来量测，例如一开始由因特尔开发的[Iometer](https://zh.wikipedia.org/w/index.php?title=Iometer&action=edit&redlink=1)，像[IOzone](https://zh.wikipedia.org/w/index.php?title=IOzone&action=edit&redlink=1)及[FIO](https://zh.wikipedia.org/w/index.php?title=FIO&action=edit&redlink=1)也有类似功能，IOPS主要会用在[服务器](https://zh.wikipedia.org/wiki/%E4%BC%BA%E6%9C%8D%E5%99%A8 "服务器")，以找到最佳的存储配置。
+
+IOPS的数值会随系统配置而有很大的不同，依测试者在测试时的控制变因而异，控制变因包括读取及写入的比例、其中[循序访问](https://zh.wikipedia.org/wiki/%E5%BE%AA%E5%BA%8F%E5%AD%98%E5%8F%96 "循序访问")及[随机存取](https://zh.wikipedia.org/wiki/%E9%9A%A8%E6%A9%9F%E5%AD%98%E5%8F%96 "随机存取")的比例及配置方式、[线程](https://zh.wikipedia.org/wiki/%E7%BA%BF%E7%A8%8B "线程")数量及访问队列深度，以及资料区块的大小。其他因素也会影响IOPS的结果，例如系统设置、存储设备的[驱动程序](https://zh.wikipedia.org/wiki/%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F "驱动程序")、操作系统后台运行的作业等。若在测试[固态硬盘](https://zh.wikipedia.org/wiki/%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98 "固态硬盘")时，是否先进行预调（preconditioning）机制也会影响IOPS的结果

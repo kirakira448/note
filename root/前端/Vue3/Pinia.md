@@ -101,12 +101,12 @@ createApp(App).use(pinia).mount('#app')
 ```
 
 ### 引入第三方插件
-*示例-引入持久化插件*
-#### 安装
+#### *示例-引入持久化插件*
+##### 安装
 ```shell
 npm install --save pinia-plugin-persist
 ```
-#### 引入持久化插件
+##### 引入持久化插件
 ```js
 import { createApp } from 'vue'
 import App from './App.vue'
@@ -117,7 +117,7 @@ const pinia = createPinia()
 pinia.use(piniaPersist)
 createApp(App).use(pinia).mount('#app')
 ```
-#### 使用持久化插件
+##### 使用持久化插件
 在需要使用插件的``store``文件中加入代码
 ```js
 import { defineStore } from "pinia"
@@ -139,4 +139,40 @@ export const useCountStore = defineStore("count", {
    }
 })
 
+```
+
+#### pinia-plugin-persistedstate
+持久化插件
+[pinia-plugin-persistedstate](https://prazdevs.github.io/pinia-plugin-persistedstate/zh/guide/)
+##### 安装
+1.安装依赖
+```bash
+npm i pinia-plugin-persistedstate
+```
+
+2.将插件添加到 pinia 实例上
+```js
+import { createPinia } from 'pinia'
+import piniaPluginPersistedstate from 'pinia-plugin-persistedstate'
+
+const pinia = createPinia()
+pinia.use(piniaPluginPersistedstate)
+```
+
+##### 用法
+创建 Store 时，将 `persist` 选项设置为 `true`。
+```js
+import { defineStore } from 'pinia'
+
+export const useStore = defineStore(
+  'main',
+  () => {
+    const someState = ref('你好 pinia')
+    return { someState }
+  },
+  {
+	// 这里设置为true
+    persist: true,
+  },
+)
 ```

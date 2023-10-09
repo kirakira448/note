@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/基础用法.md",
+                "file": "前端/Vue3/【案例】小兔鲜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/基础用法.md",
+                "file": "前端/Vue3/【案例】小兔鲜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/基础用法.md"
+                "file": "前端/Vue3/【案例】小兔鲜.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b113d9fa57dbbe7b",
+  "active": "4162b3b9d98a54eb",
   "lastOpenFiles": [
+    "git/基础用法.md",
     "前端/Vue3/【案例】小兔鲜.md",
     "前端/Vue3/Pinia.md",
     "前端/Vue3/Element-Plus.md",
-    "git/基础用法.md",
     "AI·人工智能/matplotlib/预设.md",
     "git",
     "AI·人工智能/MachineLearning/KMeans.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI·人工智能/Tools/sklearn/文本向量化.md",
+                "file": "前端/Vue3/常用配置/scss案例.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI·人工智能/Tools/sklearn/文本向量化.md",
+                "file": "前端/Vue3/常用配置/scss案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI·人工智能/Tools/sklearn/文本向量化.md",
+                "file": "前端/Vue3/常用配置/scss案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI·人工智能/Tools/sklearn/文本向量化.md"
+                "file": "前端/Vue3/常用配置/scss案例.md"
               }
             }
           }
@@ -148,14 +148,23 @@
   },
   "active": "320de103e1963cf4",
   "lastOpenFiles": [
-    "AI·人工智能/Tools/sklearn/sklearn 方法解释.md",
+    "前端/Vue3/常用配置/api案例.md",
+    "前端/Vue3/常用配置/scss案例.md",
+    "前端/Vue3/常用配置/菜单列表.md",
+    "前端/Vue3/常用配置/utils.request.js.md",
+    "前端/Vue3/事件.md",
+    "前端/Vue3/常用配置",
+    "前端/Vue3/插件.md",
+    "前端/Vue3/【案例】小兔鲜.md",
+    "未命名.canvas",
+    "git/基础用法.md",
+    "未命名.md",
     "AI·人工智能/Tools/sklearn/文本向量化.md",
+    "AI·人工智能/Tools/sklearn/sklearn 方法解释.md",
     "AI·人工智能/Tools/jieba/jieba.md",
     "AI·人工智能/机器学习深度学习理论与实践路线.canvas",
     "AI·人工智能/Tools/jieba",
-    "前端/Vue3/【案例】小兔鲜.md",
     "AI·人工智能/Tools",
-    "git/基础用法.md",
     "前端/Vue3/Pinia.md",
     "前端/Vue3/Element-Plus.md",
     "AI·人工智能/Tools/matplotlib/预设.md",
@@ -165,20 +174,17 @@
     "AI·人工智能/data/imgs/KMeans算法.png.crdownload",
     "AI·人工智能/MachineLearning/分类算法的评价指标.md",
     "AI·人工智能/MachineLearning/RR与OR.md",
-    "前端/Vue3/事件.md",
     "前端/Vue3/VueUse.md",
     "AI·人工智能/MachineLearning/Pipelines 管道.md",
     "前端/Vue3/imgs/屏幕截图 2023-10-05 104333.png",
     "前端/Vue3/imgs/屏幕截图 2023-10-05 104210.png",
     "AI·人工智能/MachineLearning/监督学习（Supervised learning）.md",
     "前端/Vue3/imgs",
-    "前端/Vue3/插件.md",
     "前端/Vue3/Vite.md",
     "前端/Vue3/vue-router.md",
     "前端/Vue3/Vant.md",
     "前端/Vue3/TinyMCE.md",
     "前端/Vue3/ECharts.md",
-    "AI·人工智能/MachineLearning/过拟合与欠拟合.md",
     "AI·人工智能/data/imgs/ROC_curve.png",
     "AI·人工智能/data/imgs/precision_recall_curve.png",
     "AI·人工智能/data/imgs/precision&recall_threshold_curve.png",
@@ -186,15 +192,10 @@
     "AI·人工智能/data/imgs/二分类Precision-Recall曲线图.jpg.crdownload",
     "AI·人工智能/data/imgs/精准率与召回率.png",
     "AI·人工智能/data/imgs/精准率与召回率.png.crdownload",
-    "AI·人工智能/MachineLearning/Regularization 正则化.md",
-    "AI·人工智能/MachineLearning/Softmax回归.md",
-    "AI·人工智能/MachineLearning/KNN（K-Nearest Neighbors）.md",
-    "AI·人工智能/MachineLearning/逻辑回归.md",
     "AI·人工智能/Tools/matplotlib",
     "AI·人工智能/data/imgs/McNemar.png",
     "AI·人工智能/data/imgs/McNemar.png.crdownload",
     "AI·人工智能/data/imgs/crosstab03.png",
-    "AI·人工智能/Tools/Pandas",
     "云服务/AWS/云端存储/AWS Core Storage Services.canvas",
     "云服务/AWS/Core Services Architecture Diagram/AWS Core Services Architecture Diagram.canvas",
     "AWS/Core Services Architecture Diagram/AWS Core Services Architecture Diagram.canvas",

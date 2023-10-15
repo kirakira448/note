@@ -1,3 +1,56 @@
+### chatGPT
+设计一个仓储管理系统的API框架需要考虑系统的功能和需求。以下是一个简单的API框架示例，你可以根据你的具体需求进行扩展和修改。这个示例使用RESTful风格的API设计：
+
+1. **用户认证和授权**
+    
+    - `/api/auth/login` (POST): 用户登录
+    - `/api/auth/logout` (POST): 用户登出
+    - `/api/auth/register` (POST): 用户注册
+    - `/api/auth/reset-password` (POST): 重置密码
+    - `/api/auth/user` (GET): 获取当前用户信息
+2. **仓库管理**
+    
+    - `/api/warehouses` (GET): 获取所有仓库列表
+    - `/api/warehouses/{id}` (GET): 获取特定仓库详情
+    - `/api/warehouses` (POST): 创建新仓库
+    - `/api/warehouses/{id}` (PUT): 更新仓库信息
+    - `/api/warehouses/{id}` (DELETE): 删除仓库
+3. **库存管理**
+    
+    - `/api/inventory` (GET): 获取所有库存列表
+    - `/api/inventory/{id}` (GET): 获取特定库存详情
+    - `/api/inventory` (POST): 创建新库存
+    - `/api/inventory/{id}` (PUT): 更新库存信息
+    - `/api/inventory/{id}` (DELETE): 删除库存
+4. **入库管理**
+    
+    - `/api/inbound` (GET): 获取所有入库记录
+    - `/api/inbound/{id}` (GET): 获取特定入库记录详情
+    - `/api/inbound` (POST): 创建新入库记录
+    - `/api/inbound/{id}` (PUT): 更新入库记录
+    - `/api/inbound/{id}` (DELETE): 删除入库记录
+5. **出库管理**
+    
+    - `/api/outbound` (GET): 获取所有出库记录
+    - `/api/outbound/{id}` (GET): 获取特定出库记录详情
+    - `/api/outbound` (POST): 创建新出库记录
+    - `/api/outbound/{id}` (PUT): 更新出库记录
+    - `/api/outbound/{id}` (DELETE): 删除出库记录
+6. **产品管理**
+    
+    - `/api/products` (GET): 获取所有产品列表
+    - `/api/products/{id}` (GET): 获取特定产品详情
+    - `/api/products` (POST): 创建新产品
+    - `/api/products/{id}` (PUT): 更新产品信息
+    - `/api/products/{id}` (DELETE): 删除产品
+7. **报表和统计**
+    
+    - `/api/reports/inventory` (GET): 获取库存报表
+    - `/api/reports/inbound` (GET): 获取入库报表
+    - `/api/reports/outbound` (GET): 获取出库报表
+
+这是一个简单的API框架示例，你可以根据你的系统需求和前端Vue应用的需求进一步设计和扩展API端点。还需要考虑数据验证、用户权限、错误处理、身份验证和安全性等方面的实现。此外，文档化你的API是非常重要的，以便开发人员了解如何使用它。
+
 ### 隧道项目
 `base.js`
 ```js

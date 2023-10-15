@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/Vue3/常用配置/scss案例.md",
+                "file": "前端/BEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Vue3/常用配置/scss案例.md",
+                "file": "前端/BEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/Vue3/常用配置/scss案例.md",
+                "file": "前端/BEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Vue3/常用配置/scss案例.md"
+                "file": "前端/BEM.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "320de103e1963cf4",
   "lastOpenFiles": [
-    "前端/Vue3/常用配置/api案例.md",
-    "前端/Vue3/常用配置/scss案例.md",
     "前端/Vue3/常用配置/菜单列表.md",
+    "前端/BEM.md",
+    "前端/Vue3/常用配置/api案例.md",
+    "前端/Vue3/【案例】小兔鲜.md",
+    "git/基础用法.md",
+    "前端/Vue3/常用配置/scss案例.md",
     "前端/Vue3/常用配置/utils.request.js.md",
     "前端/Vue3/事件.md",
     "前端/Vue3/常用配置",
     "前端/Vue3/插件.md",
-    "前端/Vue3/【案例】小兔鲜.md",
     "未命名.canvas",
-    "git/基础用法.md",
     "未命名.md",
     "AI·人工智能/Tools/sklearn/文本向量化.md",
     "AI·人工智能/Tools/sklearn/sklearn 方法解释.md",
@@ -184,7 +185,6 @@
     "前端/Vue3/vue-router.md",
     "前端/Vue3/Vant.md",
     "前端/Vue3/TinyMCE.md",
-    "前端/Vue3/ECharts.md",
     "AI·人工智能/data/imgs/ROC_curve.png",
     "AI·人工智能/data/imgs/precision_recall_curve.png",
     "AI·人工智能/data/imgs/precision&recall_threshold_curve.png",

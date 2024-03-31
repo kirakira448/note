@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "63f35c0ac76dcb43",
+        "id": "9ce8d4cf9ceffa89",
         "type": "tabs",
         "children": [
           {
-            "id": "320de103e1963cf4",
+            "id": "a1673ebff16e7755",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/BEM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 358.5
   },
   "right": {
     "id": "2159ff032bbe3edf",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/BEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/BEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "前端/BEM.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,56 +138,56 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "320de103e1963cf4",
+  "active": "a1673ebff16e7755",
   "lastOpenFiles": [
-    "前端/Vue3/常用配置/菜单列表.md",
-    "前端/BEM.md",
-    "前端/Vue3/常用配置/api案例.md",
-    "前端/Vue3/【案例】小兔鲜.md",
-    "git/基础用法.md",
-    "前端/Vue3/常用配置/scss案例.md",
-    "前端/Vue3/常用配置/utils.request.js.md",
-    "前端/Vue3/事件.md",
-    "前端/Vue3/常用配置",
-    "前端/Vue3/插件.md",
-    "未命名.canvas",
-    "未命名.md",
-    "AI·人工智能/Tools/sklearn/文本向量化.md",
-    "AI·人工智能/Tools/sklearn/sklearn 方法解释.md",
-    "AI·人工智能/Tools/jieba/jieba.md",
-    "AI·人工智能/机器学习深度学习理论与实践路线.canvas",
-    "AI·人工智能/Tools/jieba",
-    "AI·人工智能/Tools",
+    "AI·人工智能/MATH/线性代数/对角矩阵.md",
+    "前端/Express.md",
     "前端/Vue3/Pinia.md",
-    "前端/Vue3/Element-Plus.md",
-    "AI·人工智能/Tools/matplotlib/预设.md",
-    "git",
-    "AI·人工智能/MachineLearning/KMeans.md",
-    "AI·人工智能/data/imgs/KMeans算法.png",
-    "AI·人工智能/data/imgs/KMeans算法.png.crdownload",
-    "AI·人工智能/MachineLearning/分类算法的评价指标.md",
-    "AI·人工智能/MachineLearning/RR与OR.md",
-    "前端/Vue3/VueUse.md",
-    "AI·人工智能/MachineLearning/Pipelines 管道.md",
-    "前端/Vue3/imgs/屏幕截图 2023-10-05 104333.png",
+    "前端/Vue3/【案例】小兔鲜.md",
+    "前端/Vue3/常用配置/api案例.md",
     "前端/Vue3/imgs/屏幕截图 2023-10-05 104210.png",
+    "前端/Vue3/常用配置/utils.request.js.md",
+    "前端/Vue3/常用配置/scss案例.md",
+    "前端/Vue3/常用配置/菜单列表.md",
+    "AI·人工智能/缩写解释.md",
+    "AI·人工智能/OpenCV/dnn/blobFromImage.md",
+    "AI·人工智能/OpenCV/dnn",
+    "AI·人工智能/概念/计算机视觉/特征提取（Detect）、特征描述（Descriptor）、特征匹配（Match）的通俗解释.md",
+    "AI·人工智能/概念/计算机视觉/imgs/64342714d917c2a89e86db90abea09ab.png",
+    "AI·人工智能/概念/计算机视觉/imgs/64342714d917c2a89e86db90abea09ab.png.crdownload",
+    "AI·人工智能/概念/计算机视觉/imgs/0db3f439dc1bda9c949a2ac5ce53b26a.png",
+    "AI·人工智能/概念/计算机视觉/imgs/0db3f439dc1bda9c949a2ac5ce53b26a.png.crdownload",
+    "AI·人工智能/概念/计算机视觉/imgs/0042165b6aad688f12af90bdb0bdda71.png",
+    "AI·人工智能/概念/计算机视觉/imgs/0042165b6aad688f12af90bdb0bdda71.png.crdownload",
+    "AI·人工智能/概念/计算机视觉/imgs/0f82ef9a537a89974835aef2a2f02025.png",
+    "AI·人工智能/概念/计算机视觉/imgs/0f82ef9a537a89974835aef2a2f02025.png.crdownload",
+    "AI·人工智能/概念/计算机视觉/imgs/975d098a3372b2883a0d3f425e877d8c.png",
+    "AI·人工智能/概念/计算机视觉/imgs/975d098a3372b2883a0d3f425e877d8c.png.crdownload",
+    "AI·人工智能/概念/计算机视觉/imgs/a1bb60a6054c087ba36a333c37bbe762.png",
+    "AI·人工智能/概念/计算机视觉/imgs/a1bb60a6054c087ba36a333c37bbe762.png.crdownload",
+    "AI·人工智能/概念/计算机视觉/imgs/e6b33c6f57089b8874a89c03d50f6e14.png",
+    "AI·人工智能/概念/计算机视觉/imgs/e6b33c6f57089b8874a89c03d50f6e14.png.crdownload",
+    "AI·人工智能/概念/计算机视觉/imgs/ba433da8b0f71e1c8daa9c8e1bc515b0.png",
+    "AI·人工智能/概念/计算机视觉/imgs/ba433da8b0f71e1c8daa9c8e1bc515b0.png.crdownload",
+    "AI·人工智能/概念/计算机视觉/imgs/ee5d5a3697a26a8c3474f117ab288b97.png",
+    "AI·人工智能/概念/计算机视觉/imgs/ee5d5a3697a26a8c3474f117ab288b97.png.crdownload",
+    "AI·人工智能/OpenCV/detectMultiScale().md",
+    "AI·人工智能/MATH/线性代数/可对角化矩阵.md",
+    "AI·人工智能/MATH/线性代数/实对称矩阵.md",
+    "AI·人工智能/MATH/高数/泰勒(Taylor)展开式（泰勒级数）.md",
     "AI·人工智能/MachineLearning/监督学习（Supervised learning）.md",
-    "前端/Vue3/imgs",
-    "前端/Vue3/Vite.md",
-    "前端/Vue3/vue-router.md",
-    "前端/Vue3/Vant.md",
-    "前端/Vue3/TinyMCE.md",
-    "AI·人工智能/data/imgs/ROC_curve.png",
-    "AI·人工智能/data/imgs/precision_recall_curve.png",
-    "AI·人工智能/data/imgs/precision&recall_threshold_curve.png",
-    "AI·人工智能/data/imgs/二分类Precision-Recall曲线图.jpg",
-    "AI·人工智能/data/imgs/二分类Precision-Recall曲线图.jpg.crdownload",
-    "AI·人工智能/data/imgs/精准率与召回率.png",
-    "AI·人工智能/data/imgs/精准率与召回率.png.crdownload",
-    "AI·人工智能/Tools/matplotlib",
-    "AI·人工智能/data/imgs/McNemar.png",
-    "AI·人工智能/data/imgs/McNemar.png.crdownload",
-    "AI·人工智能/data/imgs/crosstab03.png",
+    "python/常用命令行/虚拟环境.md",
+    "AI·人工智能/OpenCV/轮廓检测函数cv2.findContours().md",
+    "python/flask/【PyCharm】指定host及端口.md",
+    "AI·人工智能/matplotlib/Kernel崩溃.md",
+    "AI·人工智能/PyTorch/torch.squeeze() 和torch.unsqueeze().md",
+    "AI·人工智能/DeepLearning/训练集、测试集和验证集的作用.md",
+    "AI·人工智能/MachineLearning/XGBoost.md",
+    "AI·人工智能/MachineLearning/RR与OR.md",
+    "AI·人工智能/MachineLearning/Regularization 正则化.md",
+    "AI·人工智能/MachineLearning/RandomForestRegressor 基本流程.md",
+    "未命名.canvas",
+    "AI·人工智能/机器学习深度学习理论与实践路线.canvas",
     "云服务/AWS/云端存储/AWS Core Storage Services.canvas",
     "云服务/AWS/Core Services Architecture Diagram/AWS Core Services Architecture Diagram.canvas",
     "AWS/Core Services Architecture Diagram/AWS Core Services Architecture Diagram.canvas",

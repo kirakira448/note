@@ -8,14 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1673ebff16e7755",
+            "id": "8240aceed4043c35",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI·人工智能/albumentations/安装报错解决.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1815b742f2ff6211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI·人工智能/PyTorch/【Windows】PyTorch 安装（GPU版本）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb7b5709b12ca7d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序员画图/01_独家原创--程序员的全能画图课.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "672be5fb6e3cef76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序员画图/04_UML类图，这样用即简单又实用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97c065c068b9b37d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序员画图/08_手把手教你画出专业规范的“流程图”.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a10c091635a3985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序员画图/09_学会理清系统核心的状态机，能少抠不少代码.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bb5da1c2e4aeb51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序员画图/02_程序员光写代码不行吗，为什么还要画图？.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -81,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程序员画图/02_程序员光写代码不行吗，为什么还要画图？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程序员画图/02_程序员光写代码不行吗，为什么还要画图？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程序员画图/02_程序员光写代码不行吗，为什么还要画图？.md"
+              }
             }
           }
         ]
@@ -138,54 +219,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a1673ebff16e7755",
+  "active": "3bb5da1c2e4aeb51",
   "lastOpenFiles": [
-    "AI·人工智能/MATH/线性代数/对角矩阵.md",
-    "前端/Express.md",
-    "前端/Vue3/Pinia.md",
-    "前端/Vue3/【案例】小兔鲜.md",
-    "前端/Vue3/常用配置/api案例.md",
-    "前端/Vue3/imgs/屏幕截图 2023-10-05 104210.png",
-    "前端/Vue3/常用配置/utils.request.js.md",
-    "前端/Vue3/常用配置/scss案例.md",
-    "前端/Vue3/常用配置/菜单列表.md",
-    "AI·人工智能/缩写解释.md",
-    "AI·人工智能/OpenCV/dnn/blobFromImage.md",
-    "AI·人工智能/OpenCV/dnn",
-    "AI·人工智能/概念/计算机视觉/特征提取（Detect）、特征描述（Descriptor）、特征匹配（Match）的通俗解释.md",
-    "AI·人工智能/概念/计算机视觉/imgs/64342714d917c2a89e86db90abea09ab.png",
-    "AI·人工智能/概念/计算机视觉/imgs/64342714d917c2a89e86db90abea09ab.png.crdownload",
-    "AI·人工智能/概念/计算机视觉/imgs/0db3f439dc1bda9c949a2ac5ce53b26a.png",
-    "AI·人工智能/概念/计算机视觉/imgs/0db3f439dc1bda9c949a2ac5ce53b26a.png.crdownload",
-    "AI·人工智能/概念/计算机视觉/imgs/0042165b6aad688f12af90bdb0bdda71.png",
-    "AI·人工智能/概念/计算机视觉/imgs/0042165b6aad688f12af90bdb0bdda71.png.crdownload",
-    "AI·人工智能/概念/计算机视觉/imgs/0f82ef9a537a89974835aef2a2f02025.png",
-    "AI·人工智能/概念/计算机视觉/imgs/0f82ef9a537a89974835aef2a2f02025.png.crdownload",
-    "AI·人工智能/概念/计算机视觉/imgs/975d098a3372b2883a0d3f425e877d8c.png",
-    "AI·人工智能/概念/计算机视觉/imgs/975d098a3372b2883a0d3f425e877d8c.png.crdownload",
-    "AI·人工智能/概念/计算机视觉/imgs/a1bb60a6054c087ba36a333c37bbe762.png",
-    "AI·人工智能/概念/计算机视觉/imgs/a1bb60a6054c087ba36a333c37bbe762.png.crdownload",
-    "AI·人工智能/概念/计算机视觉/imgs/e6b33c6f57089b8874a89c03d50f6e14.png",
-    "AI·人工智能/概念/计算机视觉/imgs/e6b33c6f57089b8874a89c03d50f6e14.png.crdownload",
-    "AI·人工智能/概念/计算机视觉/imgs/ba433da8b0f71e1c8daa9c8e1bc515b0.png",
-    "AI·人工智能/概念/计算机视觉/imgs/ba433da8b0f71e1c8daa9c8e1bc515b0.png.crdownload",
-    "AI·人工智能/概念/计算机视觉/imgs/ee5d5a3697a26a8c3474f117ab288b97.png",
-    "AI·人工智能/概念/计算机视觉/imgs/ee5d5a3697a26a8c3474f117ab288b97.png.crdownload",
-    "AI·人工智能/OpenCV/detectMultiScale().md",
-    "AI·人工智能/MATH/线性代数/可对角化矩阵.md",
-    "AI·人工智能/MATH/线性代数/实对称矩阵.md",
-    "AI·人工智能/MATH/高数/泰勒(Taylor)展开式（泰勒级数）.md",
-    "AI·人工智能/MachineLearning/监督学习（Supervised learning）.md",
-    "python/常用命令行/虚拟环境.md",
-    "AI·人工智能/OpenCV/轮廓检测函数cv2.findContours().md",
-    "python/flask/【PyCharm】指定host及端口.md",
-    "AI·人工智能/matplotlib/Kernel崩溃.md",
-    "AI·人工智能/PyTorch/torch.squeeze() 和torch.unsqueeze().md",
-    "AI·人工智能/DeepLearning/训练集、测试集和验证集的作用.md",
-    "AI·人工智能/MachineLearning/XGBoost.md",
-    "AI·人工智能/MachineLearning/RR与OR.md",
-    "AI·人工智能/MachineLearning/Regularization 正则化.md",
-    "AI·人工智能/MachineLearning/RandomForestRegressor 基本流程.md",
+    "程序员画图/01_独家原创--程序员的全能画图课.md",
+    "程序员画图/02_程序员光写代码不行吗，为什么还要画图？.md",
+    "程序员画图/22_从小白到老白，五步搞定技术公众号文章配图.md",
+    "程序员画图/18_怎么说清楚软件项目的分层架构？.md",
+    "程序员画图/15_程序员做项目管理的必备技能（下）.md",
+    "程序员画图/13_怎么把技术评审做得领导、同事、自己都觉得好.md",
+    "程序员画图/11_手把手教你画出大厂开放平台中的顺序图.md",
+    "程序员画图/08_手把手教你画出专业规范的“流程图”.md",
+    "程序员画图/06_UML类图的手把手画图指南.md",
+    "程序员画图/04_UML类图，这样用即简单又实用.md",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图/8.jpg",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图/9.jpg",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图/7.jpg",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图/6.jpg",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图/5.jpg",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图/4.jpg",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图/3.jpg",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图/24.jpg",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图/22.jpg",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图/23.jpg",
+    "程序员画图/img/22_从小白到老白，五步搞定技术公众号文章配图",
+    "程序员画图/img/21_零基础用微信学会画业务架构，给老板“画饼”",
+    "程序员画图/img/20_怎么给老板讲明白你开发的系统有什么用？",
+    "程序员画图/img/19_自从有了OKR，没有程序员能逃开汇报这座“五指山”",
+    "程序员画图/img/18_怎么说清楚软件项目的分层架构？",
+    "程序员画图/img/17_手把手带你用公式拆解系统，画出专业整洁的系统架构图",
+    "程序员画图/img/16_从零开始学会画系统架构图",
+    "程序员画图/img/15_程序员做项目管理的必备技能（下）",
+    "程序员画图/img/14_程序员转型PM的一项必备基础技能（上）",
+    "程序员画图/img/13_怎么把技术评审做得领导、同事、自己都觉得好",
+    "程序员画图/21_零基础用微信学会画业务架构，给老板“画饼”.md",
+    "程序员画图/20_怎么给老板讲明白你开发的系统有什么用？.md",
+    "程序员画图/19_自从有了OKR，没有程序员能逃开汇报这座“五指山”.md",
+    "程序员画图/17_手把手带你用公式拆解系统，画出专业整洁的系统架构图.md",
+    "程序员画图/16_从零开始学会画系统架构图.md",
+    "程序员画图/14_程序员转型PM的一项必备基础技能（上）.md",
+    "程序员画图/12_程序员怎么做好技术评审--业务结构分析和建模.md",
+    "程序员画图/10_微信支付宝的开发者为什么都用它来演示对接.md",
+    "程序员画图/09_学会理清系统核心的状态机，能少抠不少代码.md",
+    "程序员画图/07_代码中的分支、循环、并发怎么用“流程图”画出来？.md",
+    "程序员画图/05_深入浅出｜用代码拆解软件设计中类的六种关系.md",
+    "程序员画图/03_程序员画图利器--零成本打造一个好用的在线画图软件.md",
+    "AI·人工智能/PyTorch/【Windows】PyTorch 安装（GPU版本）.md",
+    "未命名.md",
+    "AI·人工智能/albumentations/安装报错解决.md",
     "未命名.canvas",
     "AI·人工智能/机器学习深度学习理论与实践路线.canvas",
     "云服务/AWS/云端存储/AWS Core Storage Services.canvas",

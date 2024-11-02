@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "38b6334a469c688f",
+    "type": "split",
+    "children": [
+      {
+        "id": "03a71c8fe7e084cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16f6b70c92d5e1a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/git/设置账户.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "设置账户"
+            }
+          },
+          {
+            "id": "033a8618d703b289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/esp32/连接WIFI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "连接WIFI"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f14d99a11a9c05b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2829563b1d2c333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cabbe38dc878f559",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d9971449bd61e8af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d11d44cfbf8fa73b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4de94708138dfc18",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfb5a0b628b5c447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "276527afbc9745f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "root/esp32/连接WIFI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "连接WIFI 的反向链接列表"
+            }
+          },
+          {
+            "id": "b4b395b847f28344",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "root/esp32/连接WIFI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "连接WIFI 的出链列表"
+            }
+          },
+          {
+            "id": "f2f7b0a949747a13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "30c970880c8df2b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "root/esp32/连接WIFI.md"
+              },
+              "icon": "lucide-list",
+              "title": "连接WIFI 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "033a8618d703b289",
+  "lastOpenFiles": [
+    "root/esp32/【VSCode】初始化.md",
+    "root/esp32/连接WIFI.md",
+    "root/esp32/img/Snipaste_2024-11-03_00-16-06.png",
+    "root/git/设置账户.md",
+    "root/esp32/img/Snipaste_2024-11-03_00-14-04.png",
+    "root/esp32/img/Snipaste_2024-11-03_00-11-18.png",
+    "root/esp32/img/Snipaste_2024-11-03_00-07-09.png",
+    "root/esp32/img/Snipaste_2024-11-02_23-45-57.png",
+    "root/esp32/img/Snipaste_2024-11-02_23-39-27.png",
+    "root/esp32/img/Snipaste_2024-11-02_23-40-27.png",
+    "root/esp32/img/Snipaste_2024-11-02_23-35-53.png",
+    "root/esp32/img/Snipaste_2024-11-02_23-35-05.png",
+    "root/esp32/img",
+    "root/esp32",
+    "root/未命名.md",
+    "root/未命名 1.md",
+    "root/git/基础用法.md",
+    "root/linux/【Linux】SSH跳过输入密码.md",
+    "root/windows/【Windows】跳过联网激活.md",
+    "root/linux",
+    "未命名",
+    "root/windows/键盘码值.md",
+    "root/快捷键/VS Code 的常用快捷键.md"
+  ]
+}

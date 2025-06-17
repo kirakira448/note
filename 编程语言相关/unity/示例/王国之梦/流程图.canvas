@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"bcff4ee6ee68cee9","type":"group","x":-800,"y":-280,"width":2040,"height":1000,"label":"地图生成"},
+		{"id":"58d07b7bc05c62e4","type":"group","x":-360,"y":40,"width":586,"height":340,"label":"MapConfigSO"},
+		{"id":"b34b0563db76f723","type":"group","x":640,"y":20,"width":245,"height":500,"label":"RoomPrefab"},
+		{"id":"1bb0d4fe6bc57e0b","type":"group","x":-340,"y":100,"width":180,"height":260,"label":"RoomBlueprint"},
+		{"id":"ab41b6a54703b9c5","type":"group","x":-120,"y":100,"width":180,"height":260,"label":"RoomBlueprint"},
+		{"id":"2af1caa021f7d592","type":"group","x":660,"y":230,"width":205,"height":210,"label":"RoomData"},
+		{"id":"b2f959f8189882f0","type":"text","text":"min","x":-320,"y":120,"width":140,"height":60},
+		{"id":"082ebb1eda62075c","type":"text","text":"max","x":-320,"y":200,"width":140,"height":60},
+		{"id":"086dce0f081095b0","type":"text","text":"roomType","x":-320,"y":280,"width":140,"height":60},
+		{"id":"9238cf20c7b70da4","type":"text","text":"column","x":660,"y":40,"width":205,"height":60},
+		{"id":"89eaebecdd8332c9","type":"text","text":"Load Room Event","x":660,"y":460,"width":205,"height":50},
+		{"id":"6b897005484e9cdf","type":"text","text":"min","x":-100,"y":120,"width":140,"height":60},
+		{"id":"ac9aec4af1753c0a","type":"text","text":"max","x":-100,"y":200,"width":140,"height":60},
+		{"id":"0f8088414cbc592f","type":"text","text":"roomType","x":-100,"y":280,"width":140,"height":60},
+		{"id":"7f266f3145eabf86","type":"text","text":"...","x":100,"y":200,"width":106,"height":60},
+		{"id":"7a614a2e17592ada","type":"text","text":"row","x":660,"y":125,"width":205,"height":60},
+		{"id":"8ef9b81be5d10b18","type":"text","text":"根据蓝图生成Room，每一个蓝图代表一列Room","x":294,"y":143,"width":250,"height":60},
+		{"id":"7de82ee7726c4c61","type":"text","text":"MinorEnemy","x":680,"y":255,"width":165,"height":50},
+		{"id":"6cdb7328f2bc4147","type":"text","text":"Boss","x":680,"y":315,"width":165,"height":50},
+		{"id":"518643cd30c5a434","type":"text","text":"...","x":680,"y":380,"width":165,"height":50}
+	],
+	"edges":[
+		{"id":"5e74a727b8fbaf3e","fromNode":"58d07b7bc05c62e4","fromSide":"right","toNode":"b34b0563db76f723","toSide":"left"}
+	]
+}

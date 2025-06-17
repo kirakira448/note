@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/linux/【Linux】SSH跳过输入密码.md",
+                "file": "编程语言相关/unity/方法解释/SerializeField.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【Linux】SSH跳过输入密码"
+              "title": "SerializeField"
             }
           },
           {
-            "id": "be411d59f5632b76",
+            "id": "20918c47ef80dcf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/python/postgresql/【Python】连接PostgreSQL.md",
+                "file": "编程语言相关/前端/HTTP/text event-stream.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "【Python】连接PostgreSQL"
+              "title": "text event-stream"
             }
           }
         ],
@@ -69,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -81,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "conda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "root/esp32/连接WIFI.md",
+                "file": "root/dotnet/abp/系统架构层次.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "连接WIFI 的反向链接列表"
+              "title": "系统架构层次 的反向链接列表"
             }
           },
           {
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "root/esp32/连接WIFI.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "root/dotnet/abp/系统架构层次.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "连接WIFI 的出链列表"
+              "title": "系统架构层次 的出链列表"
             }
           },
           {
@@ -168,13 +169,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "root/esp32/连接WIFI.md"
+                "file": "API收集/比特币.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "连接WIFI 的大纲"
+              "title": "比特币 的大纲"
+            }
+          },
+          {
+            "id": "4883363f41244a46",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,47 +206,55 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "be411d59f5632b76",
+  "active": "20918c47ef80dcf5",
   "lastOpenFiles": [
-    "root/AI·人工智能/albumentations/安装报错解决.md",
-    "root/python/postgresql/【Python】连接PostgreSQL.md",
-    "root/python/postgresql",
-    "root/python/未命名.md",
-    "root/AI·人工智能/OpenCV/轮廓检测函数cv2.findContours().md",
-    "root/AI·人工智能/DeepLearning/训练集、测试集和验证集的作用.md",
-    "root/AI·人工智能/MachineLearning/分类算法的评价指标.md",
-    "root/linux/sftp连接群晖nas.md",
-    "root/linux/img/Snipaste_2024-12-31_00-21-26.png",
-    "root/linux/img/Snipaste_2024-12-31_00-16-31.png",
-    "root/linux/img",
-    "root/linux/新建文件夹",
-    "root/linux/安装conda.md",
-    "root/python/celery/基本使用.md",
-    "root/linux/【Linux】SSH跳过输入密码.md",
-    "root/前端/Vue3/Element-Plus.md",
-    "root/esp32/【VSCode】初始化.md",
-    "data/imgs/An.md",
-    "root/AI·人工智能/PyTorch/【Windows】PyTorch 安装（GPU版本）.md",
-    "root/AI·人工智能/PyTorch/torch.squeeze() 和torch.unsqueeze().md",
-    "root/esp32/连接WIFI.md",
-    "root/esp32/img/Snipaste_2024-11-03_00-16-06.png",
-    "root/git/设置账户.md",
-    "root/esp32/img/Snipaste_2024-11-03_00-14-04.png",
-    "root/esp32/img/Snipaste_2024-11-03_00-11-18.png",
-    "root/esp32/img/Snipaste_2024-11-03_00-07-09.png",
-    "root/esp32/img/Snipaste_2024-11-02_23-45-57.png",
-    "root/esp32/img/Snipaste_2024-11-02_23-39-27.png",
-    "root/esp32/img/Snipaste_2024-11-02_23-40-27.png",
-    "root/esp32/img/Snipaste_2024-11-02_23-35-53.png",
-    "root/esp32/img",
-    "root/esp32",
-    "root/未命名.md",
-    "root/未命名 1.md",
-    "root/git/基础用法.md",
-    "root/windows/【Windows】跳过联网激活.md",
-    "root/linux",
-    "未命名",
-    "root/windows/键盘码值.md",
-    "root/快捷键/VS Code 的常用快捷键.md"
+    "软件/vscode/VS Code 的常用快捷键.md",
+    "编程语言相关/前端/HTTP/text event-stream.md",
+    "编程语言相关/前端/HTTP",
+    "编程语言相关/前端/HTTP.md",
+    "软件/vscode/设置powershell的执行权限.md",
+    "os/windows/新建账户.md",
+    "os/windows/解压乱码.md",
+    "编程语言相关/unity/示例/王国之梦/Assets介绍.md",
+    "编程语言相关/unity/方法解释/Unity 中的 Action、UnityAction、UnityEvent.md",
+    "编程语言相关/unity/示例/王国之梦/流程图.canvas",
+    "设计/设计书/开发注意点.md",
+    "编程语言相关/unity/方法解释/SerializeField.md",
+    "编程语言相关/unity/方法解释/Unity序列化系统`System.Serializable`.md",
+    "编程语言相关/unity/方法解释/对象池 Pool.md",
+    "编程语言相关/unity/方法解释/Addressables.md",
+    "编程语言相关/unity/imgs/Snipaste_2025-05-16_20-20-52.png",
+    "编程语言相关/unity/imgs/Snipaste_2025-05-16_20-19-54.png",
+    "编程语言相关/unity/imgs/Snipaste_2025-05-16_20-17-58.png",
+    "编程语言相关/unity/imgs/Snipaste_2025-05-16_20-12-34.png",
+    "设计/程序员画图/07_代码中的分支、循环、并发怎么用“流程图”画出来？.md",
+    "设计/程序员画图/06_UML类图的手把手画图指南.md",
+    "设计/程序员画图/04_UML类图，这样用即简单又实用.md",
+    "设计/程序员画图/05_深入浅出｜用代码拆解软件设计中类的六种关系.md",
+    "设计/程序员画图/03_程序员画图利器--零成本打造一个好用的在线画图软件.md",
+    "设计/程序员画图/02_程序员光写代码不行吗，为什么还要画图？.md",
+    "设计/程序员画图/01_独家原创--程序员的全能画图课.md",
+    "编程语言相关/unity/示例/王国之梦/流程图.drawio",
+    "2025-05-09.md",
+    "编程语言相关/unity/示例/王国之梦",
+    "编程语言相关/unity/方法解释/ContextMenu.md",
+    "编程语言相关/unity/示例",
+    "编程语言相关/unity/imgs/Snipaste_2025-05-06_20-39-29.png",
+    "编程语言相关/unity/方法解释/Enum多选.md",
+    "编程语言相关/unity/imgs/Snipaste_2025-05-06_17-17-26.png",
+    "编程语言相关/unity/方法解释/ScriptableObject详细解释.md",
+    "编程语言相关/unity/方法解释/MonoBehaviour 与 ScriptableObject 概念.md",
+    "编程语言相关/unity/方法解释",
+    "编程语言相关/unity/使用cursor作为ide.md",
+    "编程语言相关/unity/imgs/Snipaste_2025-05-05_21-15-59.png",
+    "编程语言相关/unity/imgs",
+    "编程语言相关/unity/新建文件夹",
+    "编程语言相关/unity",
+    "编程语言相关/GraphQL",
+    "root/邮件模板",
+    "root/AI·人工智能/OpenCV/img/颜色相近_查找轮廓.png",
+    "root/AI·人工智能/OpenCV/img/颜色相近_最终结果.png",
+    "root/AI·人工智能/OpenCV/img/颜色相近_增强对比度_二值化保留轮廓.png",
+    "未命名.canvas"
   ]
 }

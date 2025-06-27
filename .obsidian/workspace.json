@@ -22,31 +22,31 @@
             }
           },
           {
-            "id": "033a8618d703b289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程语言相关/unity/方法解释/SerializeField.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SerializeField"
-            }
-          },
-          {
             "id": "20918c47ef80dcf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程语言相关/后端/Tomcat/VSCode远程调试Java Web项目配置指南.md",
+                "file": "os/windows/修改cmd字符集为UTF8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VSCode远程调试Java Web项目配置指南"
+              "title": "修改cmd字符集为UTF8"
+            }
+          },
+          {
+            "id": "46643224218dc19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程语言相关/git/从 Git 缓存中移除文件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "从 Git 缓存中移除文件"
             }
           }
         ],
@@ -206,11 +206,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "20918c47ef80dcf5",
+  "active": "46643224218dc19f",
   "lastOpenFiles": [
-    "root/凯利公式（Kelly Formula）讲解.md",
-    "编程语言相关/后端/Tomcat/VSCode远程调试Java Web项目配置指南.md",
     "os/windows/修改cmd字符集为UTF8.md",
+    "编程语言相关/unity/方法解释/SerializeField.md",
+    "编程语言相关/git/设置账户.md",
+    "编程语言相关/git/从 Git 缓存中移除文件.md",
+    "编程语言相关/后端/Tomcat/VSCode远程调试Java Web项目配置指南.md",
+    "root/凯利公式（Kelly Formula）讲解.md",
     "编程语言相关/前端/HTTP/text event-stream.md",
     "软件/vscode/VS Code 的常用快捷键.md",
     "编程语言相关/前端/HTTP",
@@ -222,7 +225,6 @@
     "编程语言相关/unity/方法解释/Unity 中的 Action、UnityAction、UnityEvent.md",
     "编程语言相关/unity/示例/王国之梦/流程图.canvas",
     "设计/设计书/开发注意点.md",
-    "编程语言相关/unity/方法解释/SerializeField.md",
     "编程语言相关/unity/方法解释/Unity序列化系统`System.Serializable`.md",
     "编程语言相关/unity/方法解释/对象池 Pool.md",
     "编程语言相关/unity/方法解释/Addressables.md",
@@ -240,10 +242,8 @@
     "编程语言相关/unity/示例/王国之梦/流程图.drawio",
     "2025-05-09.md",
     "编程语言相关/unity/示例/王国之梦",
-    "编程语言相关/unity/方法解释/ContextMenu.md",
     "编程语言相关/unity/示例",
     "编程语言相关/unity/imgs/Snipaste_2025-05-06_20-39-29.png",
-    "编程语言相关/unity/方法解释/Enum多选.md",
     "编程语言相关/unity/imgs/Snipaste_2025-05-06_17-17-26.png",
     "编程语言相关/unity/方法解释",
     "编程语言相关/unity/imgs/Snipaste_2025-05-05_21-15-59.png",
